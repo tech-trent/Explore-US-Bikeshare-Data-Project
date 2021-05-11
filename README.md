@@ -2,8 +2,8 @@
 Programming for Data Science with Python
 
 ## Overview
- In this project, the student had to make use of Python to explore data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington. Requirements include:
-- Importing the data and answer interesting questions about it by computing descriptive statistics
+ In this project, Python is used to explore data extracted from bikeshare systems for three major cities in the United States — Chicago, New York City, and Washington. Requirements include:
+- Importing data and addressing interesting questions regarding the output results by computing descriptive statistics.
 - Creating a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
 ## Operation
