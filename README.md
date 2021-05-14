@@ -1,4 +1,4 @@
-# Post-your-Work-on-Project
+# Post-your-Work-on-GitHub-Project
 Programming for Data Science with Python
 
 ## Overview
